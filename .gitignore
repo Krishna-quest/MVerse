@@ -9,7 +9,7 @@ cache
 
 contracts
 scripts
-hardhat.config.json
+hardhat.config.js
 .infuraId
 .secret
 test
